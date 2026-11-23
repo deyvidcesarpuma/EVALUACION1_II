@@ -1,3 +1,11 @@
+.fondo {
+  position: relative;               
+  width: 100%auto;                    
+  height: 200px;                    
+  border-radius: 25px;              
+  background: linear-gradient(#3A4750);
+                             
+}
 .cuadro {
   position: relative;               
   width: 100%auto;                    
@@ -12,11 +20,20 @@
   height: 500px;                    
   border-radius: 25px;              
   background: linear-gradient(#3A4750); 
-  text-align: center;   
+  text-align: center;  
+  font-size: 3rem;  
 }
-
-
-
+.cuadro h1 {
+  font-size: 2.5rem;    
+}
+.cuadro-1 h2 {
+    padding-top: 1.5rem;
+  font-size: 5rem;     
+}
+.cuadro-2 h1{
+    padding-top: 1.5rem;
+  font-size: 2.5rem;
+}
 body {
   background-color: #1A2126;
   color: #F5F2EB;
