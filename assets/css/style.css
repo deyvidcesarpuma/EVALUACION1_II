@@ -9,7 +9,10 @@ body {
   padding: 27rem ;
   padding-top: 1.5rem;
 }
-
+.fondo h1 {
+    padding-top: 1.5rem;
+  font-size: 5rem;
+}
 .cuadro {
   height: 100px;
   border-radius: 25px;
