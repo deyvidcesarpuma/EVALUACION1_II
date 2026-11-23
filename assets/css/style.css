@@ -1,0 +1,23 @@
+.cuadro {
+  position: relative;               
+  width: 100%auto;                    
+  height: 100px;                    
+  border-radius: 25px;              
+  background: linear-gradient(#3A4750);
+  padding-top: 1.5rem;                            
+}
+.cuadro-1 {
+  position: relative;               
+  width: 100%auto;                    
+  height: 500px;                    
+  border-radius: 25px;              
+  background: linear-gradient(#3A4750); 
+  text-align: center;   
+}
+
+
+
+body {
+  background-color: #1A2126;
+  color: #F5F2EB;
+}
